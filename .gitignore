@@ -1,0 +1,43 @@
+# Build outputs
+bin/
+obj/
+out/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs & caches
+*.log
+*.cache
+*.tmp
+*.temp
+*.pidb
+*.svclog
+
+# System files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+
+# Others
+*.dbmdl
+*.bak
+*.swp
+*.vs/
