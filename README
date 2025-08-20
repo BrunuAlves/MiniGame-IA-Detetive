@@ -1,6 +1,6 @@
 # ​​​​​ MiniGame: Descubra o Assassino (com IA simples)
 
-Jogo de console em **.NET 8** onde você interroga NPCs para descobrir quem é o assassino.  
+Jogo de console em **.NET** onde você interroga NPCs para descobrir quem é o assassino.  
 Ative a **ajuda da IA** para ver as dicas dela — cada fala é avaliada com base em palavras-chave e recebe pontos de suspeita com explicação.
 
 ---
